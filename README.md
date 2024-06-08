@@ -8,7 +8,6 @@ Welcome to the **College Bot Project**! This repository houses an intelligent an
 ## Features
 
 ### 🎓 Student Assistance
-![bot](https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/1094ad91-378f-41c5-a2f3-875f42798683)
 
 - **Course Registration:** Simplify course registration with personalized recommendations and real-time availability checks.
 - **Timetable Management:** Automatically generate and manage timetables, ensuring no clashes and optimal scheduling.
@@ -57,6 +56,13 @@ Welcome to the **College Bot Project**! This repository houses an intelligent an
 - Enables users to analyze and share data insights across the organization.
 
 ## Getting Started
+Our chatbot revolutionizes the college experience for both students and parents, offering instant access to essential information with just a few clicks or taps. Imagine effortlessly finding course details, exam schedules, and even placement opportunities—all at your fingertips. Designed with simplicity in mind, our chatbot is as easy to use as sending a text message, making it accessible to everyone. With the power of IBM Cloud behind it, you can trust that the information you receive is always up-to-date and reliable. Say goodbye to endless searches and confusion—our chatbot is here to make your college journey smoother and more enjoyable for both students and parents alike
+Our proposed chatbot solution has successfully revolutionized the college experience by providing students and parents with instant access to essential information. Through seamless integration with IBM Cloud and Watson Assistant, users can effortlessly retrieve course details, exam schedules, fees, and placement opportunities. The user-friendly interface ensures accessibility for all, making navigation intuitive and straightforward. This has led to increased engagement, empowerment, and satisfaction among users, ultimately enhancing the overall college experience.
+
+![image](https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/676f707e-f5d4-40f8-9e81-f2f5183f5942)
+
+
+![image](https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/acaf4a7b-572c-455c-82be-a6c85312bfbd)
 
 ## Contribution
 

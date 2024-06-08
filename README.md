@@ -1,5 +1,5 @@
 # Mahfooz_College_Bot
-![Airbnb](https://stock.adobe.com/in/images/artificial-intelligence-use-case-in-education-with-college-student-being-assisted-by-a-chat-bot-for-learning-and-homework-personal-tuition-by-ai-illustration-generative-ai/567075682?asset_id=607251300) 
+![Airbnb](https://search.app.goo.gl/xGzVrgZ) 
 
 ![Image 2](https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/ZRNBMN4P2ZFDFILHUULRK6PMUI.jpg)
 

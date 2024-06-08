@@ -1,7 +1,7 @@
 # Mahfooz_College_Bot
 ![Airbnb](https://search.app.goo.gl/xGzVrgZ) 
 
-![Image 2](https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/ZRNBMN4P2ZFDFILHUULRK6PMUI.jpg)
+![Image 2](https://www.google.com/search?sca_esv=ca6b902a93853820&sca_upv=1&sxsrf=ADLYWII6LKiTIuAbaRQy07NZkvI6-BLMSQ:1717870755750&q=college+bot&udm=2&fbs=AEQNm0COtQ6qE5snXClm_cWqGTLX_jMP5V4l2v9LemFtanifXVoSDc4z6nO25TAUUgCi_PqCbebMxH2l70BIpVN1tqaotXuhxLKSz0A7jFus2NRBE1IzXbKlu4T6U4i0S56MHfKseo1LkFYlRacP3ANIt81UHHz_xmAfwY47cvJIyr8IDpHSNdh5YyClmG0uHzxOx4K9hegDLLwym00ZuHOE4WKtb1FDJw&sa=X&ved=2ahUKEwj1maqhz8yGAxWos1YBHQmwAZ0QtKgLegQIFhAB&biw=1536&bih=695&dpr=1.25#vhid=lagbLJfBPLgk_M&vssid=mosaic)
 
 
 Welcome to the **College Bot Project**! This repository houses an intelligent and interactive bot designed to enhance the college experience for students, faculty, and staff. Leveraging cutting-edge technologies in Artificial Intelligence, Cloud Computing, Data Science, Python, Business Intelligence, and Power BI, our bot offers a range of features to streamline campus activities and provide valuable insights.

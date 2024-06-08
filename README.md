@@ -72,13 +72,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **Email:** ansarimahfooz167@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mdmahfoozalamansari/)
+- **GitHub:** [Your GitHub](https://github.com/Mahfooz167)
 
 ---
 
 Thank you for visiting the College Bot Project! Together, let's revolutionize the college experience. 🚀
 ```
-
-Make sure to replace the placeholder URLs and file paths with the actual paths to your images and links. If the images are not yet available, you may need to add them to your repository in a directory named `images`.

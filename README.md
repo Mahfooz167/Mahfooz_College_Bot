@@ -73,8 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out:
 - **Email:** ansarimahfooz167@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mdmahfoozalamansari/)
-- **GitHub:** [Your GitHub](https://github.com/Mahfooz167)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mdmahfoozalamansari/)
+- **GitHub:** [GitHub](https://github.com/Mahfooz167)
 
 ---
 

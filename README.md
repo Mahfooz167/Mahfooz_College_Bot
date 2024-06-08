@@ -8,7 +8,8 @@ Welcome to the **College Bot Project**! This repository houses an intelligent an
 ## Features
 
 ### 🎓 Student Assistance
-![Student Assistance](images/student-assistance.png)
+![bot](https://github.com/Mahfooz167/Mahfooz_College_Bot/assets/138190810/1094ad91-378f-41c5-a2f3-875f42798683)
+
 - **Course Registration:** Simplify course registration with personalized recommendations and real-time availability checks.
 - **Timetable Management:** Automatically generate and manage timetables, ensuring no clashes and optimal scheduling.
 - **Assignment Reminders:** Keep track of assignment deadlines and receive timely reminders.

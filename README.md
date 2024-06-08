@@ -1,14 +1,14 @@
-# Mahfooz_College_Bot
-![Airbnb](https://www.google.com/search?sca_esv=ca6b902a93853820&sca_upv=1&sxsrf=ADLYWII6LKiTIuAbaRQy07NZkvI6-BLMSQ:1717870755750&q=college+bot&udm=2&fbs=AEQNm0COtQ6qE5snXClm_cWqGTLX_jMP5V4l2v9LemFtanifXVoSDc4z6nO25TAUUgCi_PqCbebMxH2l70BIpVN1tqaotXuhxLKSz0A7jFus2NRBE1IzXbKlu4T6U4i0S56MHfKseo1LkFYlRacP3ANIt81UHHz_xmAfwY47cvJIyr8IDpHSNdh5YyClmG0uHzxOx4K9hegDLLwym00ZuHOE4WKtb1FDJw&sa=X&ved=2ahUKEwj1maqhz8yGAxWos1YBHQmwAZ0QtKgLegQIFhAB&biw=1536&bih=695&dpr=1.25#vhid=zUb6WkuV3xCimM&vssid=mosaic.jpg) 
-
-![Image 2](https://www.google.com/search?sca_esv=ca6b902a93853820&sca_upv=1&sxsrf=ADLYWII6LKiTIuAbaRQy07NZkvI6-BLMSQ:1717870755750&q=college+bot&udm=2&fbs=AEQNm0COtQ6qE5snXClm_cWqGTLX_jMP5V4l2v9LemFtanifXVoSDc4z6nO25TAUUgCi_PqCbebMxH2l70BIpVN1tqaotXuhxLKSz0A7jFus2NRBE1IzXbKlu4T6U4i0S56MHfKseo1LkFYlRacP3ANIt81UHHz_xmAfwY47cvJIyr8IDpHSNdh5YyClmG0uHzxOx4K9hegDLLwym00ZuHOE4WKtb1FDJw&sa=X&ved=2ahUKEwj1maqhz8yGAxWos1YBHQmwAZ0QtKgLegQIFhAB&biw=1536&bih=695&dpr=1.25#vhid=lagbLJfBPLgk_M&vssid=mosaic)
-
+```markdown
+# College Bot Project
 
 Welcome to the **College Bot Project**! This repository houses an intelligent and interactive bot designed to enhance the college experience for students, faculty, and staff. Leveraging cutting-edge technologies in Artificial Intelligence, Cloud Computing, Data Science, Python, Business Intelligence, and Power BI, our bot offers a range of features to streamline campus activities and provide valuable insights.
+
+![College Bot](images/college-bot-banner.png)
 
 ## Features
 
 ### 🎓 Student Assistance
+![Student Assistance](images/student-assistance.png)
 - **Course Registration:** Simplify course registration with personalized recommendations and real-time availability checks.
 - **Timetable Management:** Automatically generate and manage timetables, ensuring no clashes and optimal scheduling.
 - **Assignment Reminders:** Keep track of assignment deadlines and receive timely reminders.
@@ -20,11 +20,13 @@ Welcome to the **College Bot Project**! This repository houses an intelligent an
 - **Placement Information:** Stay updated on placement opportunities, schedules, and results.
 
 ### 🧑‍🏫 Faculty Support
+![Faculty Support](images/faculty-support.png)
 - **Class Management:** Efficiently manage class schedules, attendance, and grading.
 - **Research Assistance:** Get insights and data for research projects using advanced data science tools.
 - **Communication:** Easily communicate with students and colleagues through integrated messaging.
 
 ### 🏢 Administrative Tools
+![Administrative Tools](images/administrative-tools.png)
 - **Event Planning:** Organize college events with automated scheduling, resource allocation, and promotion.
 - **Data Analytics:** Utilize BI tools to analyze student performance, resource usage, and other key metrics.
 - **Cloud Integration:** Ensure secure and scalable data storage and access with cloud computing solutions.
@@ -32,26 +34,32 @@ Welcome to the **College Bot Project**! This repository houses an intelligent an
 ## Technologies Used
 
 ### 🧠 Artificial Intelligence
+![AI](images/ai.png)
 - Natural Language Processing (NLP) for understanding and interacting with users.
 - Machine Learning algorithms for personalized recommendations and predictive analytics.
 
 ### ☁️ Cloud Computing
+![Cloud Computing](images/cloud-computing.png)
 - Scalable infrastructure using AWS/GCP/Azure for reliable and efficient operation.
 - Secure data storage and backup solutions.
 
 ### 📊 Data Science
+![Data Science](images/data-science.png)
 - Data collection, cleaning, and analysis to drive insights and decision-making.
 - Visualization tools to represent data in an understandable and actionable manner.
 
 ### 🐍 Python
+![Python](images/python.png)
 - Core programming language used for developing the bot's functionalities.
 - Libraries such as Pandas, NumPy, and Scikit-learn for data manipulation and analysis.
 
 ### 📈 Business Intelligence
+![Business Intelligence](images/bi.png)
 - Dashboards and reports to provide a clear overview of key metrics and performance indicators.
 - Tools like Power BI or Tableau for advanced data visualization and analysis.
 
 ### 📊 Power BI
+![Power BI](images/power-bi.png)
 - Integrates seamlessly to provide interactive and visually appealing reports and dashboards.
 - Enables users to analyze and share data insights across the organization.
 
@@ -123,3 +131,5 @@ For any questions or suggestions, feel free to reach out:
 
 Thank you for visiting the College Bot Project! Together, let's revolutionize the college experience. 🚀
 ```
+
+Make sure to replace the placeholder URLs and file paths with the actual paths to your images and links. If the images are not yet available, you may need to add them to your repository in a directory named `images`.

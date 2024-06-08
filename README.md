@@ -1,4 +1,7 @@
 # Mahfooz_College_Bot
+![Airbnb](https://www.theforage.com/blog/wp-content/uploads/2023/01/working-at-airbnb.jpg)
+
+![Image 2](https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/ZRNBMN4P2ZFDFILHUULRK6PMUI.jpg)
 
 
 Welcome to the **College Bot Project**! This repository houses an intelligent and interactive bot designed to enhance the college experience for students, faculty, and staff. Leveraging cutting-edge technologies in Artificial Intelligence, Cloud Computing, Data Science, Python, Business Intelligence, and Power BI, our bot offers a range of features to streamline campus activities and provide valuable insights.

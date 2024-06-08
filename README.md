@@ -3,7 +3,7 @@
 
 Welcome to the **College Bot Project**! This repository houses an intelligent and interactive bot designed to enhance the college experience for students, faculty, and staff. Leveraging cutting-edge technologies in Artificial Intelligence, Cloud Computing, Data Science, Python, Business Intelligence, and Power BI, our bot offers a range of features to streamline campus activities and provide valuable insights.
 
-![College Bot](https://search.app.goo.gl/ekFW7yj)
+![College Bot](https://search.app.goo.gl/BLynyp3)
 
 ## Features
 

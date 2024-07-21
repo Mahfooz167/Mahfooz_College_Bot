@@ -65,10 +65,6 @@ Our proposed chatbot solution has successfully revolutionized the college experi
 We welcome contributions from the community! Whether it's bug fixes, new features, or documentation improvements, feel free to submit a pull request or open an issue.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
